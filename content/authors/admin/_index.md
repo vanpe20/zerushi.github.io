@@ -38,6 +38,7 @@ profiles:
   #   url: https://www.linkedin.com/
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
+news:
 
 education:
   - area: Software Engineering
@@ -47,7 +48,9 @@ education:
     summary: |
       GPA: 3.97/5.0   
       Courses included:
-      - Machine Learning, linear Algebra
+      - Machine Learning, Linear Algebra, Differential Geometry
+      - Numerical Analysis, Natural Language Process, Artificial Intelligence
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -107,4 +110,4 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-<!-- # I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization. -->
+# I am a senior majoring in Software engineering, School of International Information and Software, Dalian University of Technology. My research interests are Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models, LLM-based Agents, Trustworthy Machine Learning. I am an intern student guided by [Prof.Yongfeng Zhang](https://yongfeng.me/)
