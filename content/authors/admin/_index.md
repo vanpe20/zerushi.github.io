@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'shizeru77@gmail.con'
+    url: 'shizeru77@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -39,8 +39,9 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 news:
-  - [23/9] Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS).
-  - [22/9] I will be an official intern of Shanghai AI laboratory.
+  - item: [23/9] Please check our preprint about [LLM-based semantic file system]
+    url: https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS     
+  - item: [22/9] I will be an official intern of Shanghai AI laboratory.
 
 education:
   - area: Software Engineering
