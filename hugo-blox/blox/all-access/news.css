@@ -1,6 +1,6 @@
 /* 放大标题并更改字体 */
 .news-title {
-    font-size: 2.5rem; /* 放大标题 */
+    font-size: 10rem; /* 放大标题 */
     font-weight: bold; /* 加粗字体 */
     font-family: 'Arial', sans-serif; /* 更改字体, 可以替换为你需要的字体 */
     color: #111827; /* 设置标题颜色 */
