@@ -14,5 +14,5 @@ main:
     url: uses/
     weight: 30
   - name: news
-    url: /*news
+    url: /#news
     weight: 40
