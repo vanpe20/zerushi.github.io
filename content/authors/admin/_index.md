@@ -34,11 +34,7 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
-news:
-  - dae: 2024-9-23
-    detail: Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)!
-  - date: 2024-9-22
-    detail: I will be an official intern of Shanghai AI laboratory!
+
 
 education:
   - area: Software Engineering
@@ -51,7 +47,11 @@ education:
       - Machine Learning, Linear Algebra, Differential Geometry
       - Numerical Analysis, Natural Language Process, Artificial Intelligence
 
-
+news:
+  - date: 2024-9-23
+    detail: Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)!
+  - date: 2024-9-22
+    detail: I will be an official intern of Shanghai AI laboratory!
 
 ---
 
