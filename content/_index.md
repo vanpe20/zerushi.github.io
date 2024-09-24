@@ -35,7 +35,6 @@ sections:
       is_education_first: false
   - block: news
     content:
-      title: recent news
       username: admin
   # - block: skills
   #   content:
