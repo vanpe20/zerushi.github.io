@@ -9,18 +9,17 @@
 {{/* Access custom front matter content via `$block.content`. */}}
 {{ $newsItems := $block.content.newsItems }}
 
-<div class="flex flex-col items-center max-w-prose mx-auto gap-6 justify-center">
+<div class="news-container flex flex-col items-start max-w-prose mx-auto gap-4 justify-center">
+
+  <h2 class="news-title">News</h2> <!-- 添加标题样式 -->
 
   {{/* Loop through the `newsItems` to display each news item */}}
   {{ range $newsItems }}
-    <div class="mb-4 p-4 border-b border-gray-300 dark:border-gray-700">
-      <div class="text-lg font-semibold text-gray-800 dark:text-white">
-        {{ .date | $page.RenderString }}
-      </div>
-      <div class="text-lg font-semibold text-gray-800 dark:text-white">
+    <div class="news-item"> <!-- 为新闻项添加自定义类 -->
+      <div class="text-base text-gray-800 dark:text-white">
         {{ .detail | $page.RenderString }}
       </div>
     </div>
   {{ end }}
-  
+
 </div>

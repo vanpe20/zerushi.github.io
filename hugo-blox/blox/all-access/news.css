@@ -1,5 +1,32 @@
 /* Add your block styles here */
-.text-left {
-    text-align: right;
+/* 设置标题样式 */
+.news-title {
+    font-size: 1.5rem; /* 对应 h2 大小 */
+    font-weight: bold;
+    color: #111827; /* 设置标题颜色 */
+    margin-bottom: 1rem; /* 设置标题底部的间距 */
+  }
+  
+  /* 调整新闻项的行距和对齐 */
+  .news-item {
+    margin-bottom: 0.5rem; /* 调整新闻项的底部间距 */
+    padding: 0.5rem 0; /* 内边距 */
+    text-align: left; /* 左对齐 */
+    line-height: 1.4; /* 调整行距 */
+  }
+  
+  /* 去掉每个项的下划线 */
+  .news-item {
+    border-bottom: none; /* 去掉下划线 */
+  }
+  
+  /* 可选：调整链接样式 */
+  .news-item a {
+    text-decoration: none; /* 去掉链接的下划线 */
+    color: #1d4ed8; /* 设置链接颜色 */
+  }
+  
+  .news-item a:hover {
+    text-decoration: underline; /* 鼠标悬停时显示下划线 */
   }
   
