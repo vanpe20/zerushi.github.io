@@ -11,11 +11,11 @@
 
 <div class="news-container flex flex-col items-start max-w-prose mx-auto gap-4 justify-center">
 
-  <h2 class="news-title">News</h2> <!-- 添加标题样式 -->
+  <h2 class="news-title">News</h2> <!-- 添加了新闻标题样式 -->
 
-  {{/* Loop through the `newsItems` to display each news item */}}
+  {{/* 遍历新闻项 */}}
   {{ range $newsItems }}
-    <div class="news-item"> <!-- 为新闻项添加自定义类 -->
+    <div class="news-item"> <!-- 使用自定义的 .news-item 样式 -->
       <div class="text-base text-gray-800 dark:text-white">
         {{ .detail | $page.RenderString }}
       </div>

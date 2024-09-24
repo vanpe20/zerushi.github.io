@@ -1,32 +1,28 @@
-/* Add your block styles here */
-/* 设置标题样式 */
+/* 放大标题并更改字体 */
 .news-title {
-    font-size: 1.5rem; /* 对应 h2 大小 */
-    font-weight: bold;
+    font-size: 2.5rem; /* 放大标题 */
+    font-weight: bold; /* 加粗字体 */
+    font-family: 'Arial', sans-serif; /* 更改字体, 可以替换为你需要的字体 */
     color: #111827; /* 设置标题颜色 */
-    margin-bottom: 1rem; /* 设置标题底部的间距 */
+    margin-bottom: 1rem; /* 设置标题下方间距 */
   }
   
-  /* 调整新闻项的行距和对齐 */
+  /* 新闻项的样式 */
   .news-item {
-    margin-bottom: 0.5rem; /* 调整新闻项的底部间距 */
-    padding: 0.5rem 0; /* 内边距 */
-    text-align: left; /* 左对齐 */
-    line-height: 1.4; /* 调整行距 */
+    margin-bottom: 0.5rem; /* 设置新闻项之间的间距 */
+    line-height: 1.4; /* 调整新闻项的行距 */
   }
   
-  /* 去掉每个项的下划线 */
-  .news-item {
-    border-bottom: none; /* 去掉下划线 */
-  }
-  
-  /* 可选：调整链接样式 */
+  /* 修改链接的颜色 */
   .news-item a {
-    text-decoration: none; /* 去掉链接的下划线 */
-    color: #1d4ed8; /* 设置链接颜色 */
+    color: #1d4ed8; /* 设置默认链接颜色 (蓝色) */
+    text-decoration: none; /* 去掉默认的下划线 */
+    font-weight: 500; /* 设置链接字体加粗 */
   }
   
+  /* 鼠标悬停时的链接颜色 */
   .news-item a:hover {
+    color: #d97706; /* 设置鼠标悬停时的颜色 (橙色) */
     text-decoration: underline; /* 鼠标悬停时显示下划线 */
   }
   
