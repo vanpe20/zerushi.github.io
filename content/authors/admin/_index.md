@@ -39,7 +39,8 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 news:
-
+    - [23/9] Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS).
+    - [22/9] I will be an official intern of Shanghai AI laboratory.
 education:
   - area: Software Engineering
     institution: Dalian University of Technology
@@ -51,29 +52,29 @@ education:
       - Machine Learning, Linear Algebra, Differential Geometry
       - Numerical Analysis, Natural Language Process, Artificial Intelligence
 
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#work:
+  # - position: Director of Cloud Infrastructure
+  #   company_name: GenCoin
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2021-01-01
+  #   date_end: ''
+  #   summary: |2-
+  #     Responsibilities include:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -111,3 +112,5 @@ work:
 ---
 
 I am a senior majoring in Software engineering, School of International Information and Software, Dalian University of Technology. My research interests are Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models, LLM-based Agents, Trustworthy Machine Learning. I am an intern student guided by [Prof.Yongfeng Zhang](https://yongfeng.me/)
+
+**I will be an official intern of Shanghai AI laboratory**
