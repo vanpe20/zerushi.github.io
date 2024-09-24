@@ -9,20 +9,20 @@
 
   
   /* 新闻项的样式 */
-  .news-item {
+.news-item {
     margin-bottom: 0.5rem; /* 设置新闻项之间的间距 */
     line-height: 1.4; /* 调整新闻项的行距 */
   }
   
   /* 修改链接的颜色 */
-  .news-item a {
+.news-item a {
     color: #1d4ed8; /* 设置默认链接颜色 (蓝色) */
     text-decoration: none; /* 去掉默认的下划线 */
     font-weight: 500; /* 设置链接字体加粗 */
   }
   
   /* 鼠标悬停时的链接颜色 */
-  .news-item a:hover {
+.news-item a:hover {
     color: #d97706; /* 设置鼠标悬停时的颜色 (橙色) */
     text-decoration: underline; /* 鼠标悬停时显示下划线 */
   }
