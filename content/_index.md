@@ -34,6 +34,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: news
+    id: news
     content:
       username: admin
   # - block: skills

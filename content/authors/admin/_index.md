@@ -36,16 +36,16 @@ profiles:
 
 
 
-education:
-  - area: Software Engineering
-    institution: Dalian University of Technology
-    date_start: 2021-09-01
-    date_end: 2025-06-30
-    summary: |
-      GPA: 3.97/5.0   
-      Courses included:
-      - Machine Learning, Linear Algebra, Differential Geometry
-      - Numerical Analysis, Natural Language Process, Artificial Intelligence
+# education:
+#   - area: Software Engineering
+#     institution: Dalian University of Technology
+#     date_start: 2021-09-01
+#     date_end: 2025-06-30
+#     summary: |
+#       GPA: 3.97/5.0   
+#       Courses included:
+#       - Machine Learning, Linear Algebra, Differential Geometry
+#       - Numerical Analysis, Natural Language Process, Artificial Intelligence
 
 news:
   - date: 2024-9-23
