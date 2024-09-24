@@ -39,6 +39,7 @@ sections:
       newsItems:
       - date: 2024-09-23
         detail: "Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)!"
+      newItems:
       - date: 2024-09-22
         detail: "I will be an official intern of Shanghai AI laboratory!"
   # - block: skills
