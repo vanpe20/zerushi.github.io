@@ -33,7 +33,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: 'github.vanpe20.newblock'
+  - block: news
     content:
       title: news
   # - block: skills
