@@ -57,4 +57,5 @@ news:
 
 I am a senior majoring in Software engineering, School of International Information and Software, Dalian University of Technology. My research interests are Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models, LLM-based Agents, Trustworthy Machine Learning. I am an intern student guided by [Prof.Yongfeng Zhang](https://yongfeng.me/)
 
-**I will be an official intern of Shanghai AI laboratory**
+<span style="font-size: 24px;">**I will be an official intern of Shanghai AI laboratory**</span>
+
