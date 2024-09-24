@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="/hugo-blox/blox/all-access/news.css"> <!-- 引入 CSS 文件 -->
-</head>
-
 {{/* My Custom Hugo Blox */}}
 {{/* https://hugoblox.com */}}
 
@@ -15,7 +11,10 @@
 
 <div class="news-container flex flex-col items-start max-w-prose mx-auto gap-4 justify-center">
 
-  <h2 class="news-title">News</h2> <!-- 添加了新闻标题样式 -->
+  <head>
+    <link rel="stylesheet" href="/hugo-blox/blox/all-access/news.css"> <!-- 引入 CSS 文件 -->
+  </head>
+  <h2 class="news-title">News:</h2> <!-- 添加了新闻标题样式 -->
 
   {{/* 遍历新闻项 */}}
   {{ range $newsItems }}
