@@ -1,9 +1,3 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Styled Links Example</title>
-  <link rel="stylesheet" href="./news.css"> 
-</head>
 {{/* My Custom Hugo Blox */}}
 {{/* https://hugoblox.com */}}
 
@@ -15,6 +9,12 @@
 {{/* Access custom front matter content via `$block.content`. */}}
 {{ $newsItems := $block.content.newsItems }}
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Styled Links Example</title>
+  <link rel="stylesheet" href="./news.css"> 
+</head>
 
 <div class="news-container flex flex-col items-start max-w-prose mx-auto gap-4 justify-center">
 
