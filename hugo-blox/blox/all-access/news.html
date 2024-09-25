@@ -53,7 +53,7 @@
   {{ range $newsItems }}
     <div class="news-item"> 
       <div class="text-base text-gray-800 dark:text-white">
-        <a href="https://vanpe20.github.io/zerushi.github.io/">{{ .detail | $page.RenderString }}</a> 
+        {{ .detail | $page.RenderString }}
       </div>
     </div>
   {{ end }}
