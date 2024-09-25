@@ -47,11 +47,6 @@ profiles:
 #       - Machine Learning, Linear Algebra, Differential Geometry
 #       - Numerical Analysis, Natural Language Process, Artificial Intelligence
 
-news:
-  - date: 2024-9-23
-    detail: Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)!
-  - date: 2024-9-22
-    detail: I will be an official intern of Shanghai AI laboratory!
 
 ---
 
@@ -59,3 +54,6 @@ I am a senior majoring in Software engineering, School of International Informat
 
 <span style="font-size: 24px;">**I will be an intern of Shanghai AI laboratory**</span>
 
+## **News**
+[23/9] Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)！
+[22/9] I will be an official intern of Shanghai AI laboratory!
