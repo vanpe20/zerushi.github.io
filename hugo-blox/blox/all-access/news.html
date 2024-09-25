@@ -14,6 +14,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Styled Links Example</title>
   <link rel="stylesheet" href="./news.css"> 
+  <style>
+    /* 放大标题并更改字体 */
+.news-title {
+    font-size: 10px; /* 放大标题 */
+    font-weight: bold; /* 加粗字体 */
+    font-family: 'Arial', sans-serif; /* 更改字体 */
+    color: #111827; /* 设置标题颜色 */
+    margin-bottom: 1rem; /* 设置标题下方间距 */
+}
+
+  /* 新闻项的样式 */
+    .news-item {
+    margin-bottom: 0.5rem; /* 设置新闻项之间的间距 */
+    line-height: 1.4; /* 调整新闻项的行距 */
+  }
+  
+  /* 修改链接的颜色 */
+    .news-item a {
+    color: #1d4ed8; /* 设置默认链接颜色 (蓝色) */
+    text-decoration: none; /* 去掉默认的下划线 */
+    font-weight: 500; /* 设置链接字体加粗 */
+  }
+  
+  /* 鼠标悬停时的链接颜色 */
+    .news-item a:hover {
+    color: #d97706; /* 设置鼠标悬停时的颜色 (橙色) */
+    text-decoration: underline; /* 鼠标悬停时显示下划线 */
+  }
+  
+  </style>
 </head>
 
 <div class="news-container flex flex-col items-start max-w-prose mx-auto gap-4 justify-center">
