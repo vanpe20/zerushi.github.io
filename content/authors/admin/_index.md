@@ -52,7 +52,7 @@ profiles:
 ---
 
 I am a senior majoring in Software Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) in ISE. I will be an intern of [**Shanghai AI laboratory**](https://www.shlab.org.cn/)  
-My research interests are *LLM-based Agents*, *Trustworthy Machine Learning* and *Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models*.  
+My research interests are *MLSys*,*LLM-based Agents*, *Trustworthy Machine Learning* and *Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models*.  
 During my college life, I was guided by [Prof.Risheng Liu](https://rsliu.tech/). Now, I am an intern student guided by [Prof.Yongfeng Zhang](https://yongfeng.me/). I worked as an intern at Computing Power Platform in [Li Auto Inc](https://www.lixiang.com/#li).  
 I've got a bunch of hobbies, likes soccer, traditional Chinese calligraphy, traveling and mixing drinks. By the way I am a big Manchester United fan.  
 
