@@ -25,20 +25,24 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  # - block: experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
+  - block: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: news
     content:
       title: "News:"
       newsItems:
+      - detail: "· [15/10]I am working on issues related to 3D image generation in VLLM."
+      - detail: "· [1/10] I am working on prompt optimization methods for LLMS under perturbations."
       - detail: "· [23/9] Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)！"
       - detail: "· [22/9] I will be an official intern of Shanghai AI laboratory!"
+      - detail: "· [15/8] One paper was submitted to AAAI!"
+      - detail: "· [1/8]  One paper was submitted to TNNLS!"
   # - block: skills
   #   content:
   #     title: Skills & Hobbies
