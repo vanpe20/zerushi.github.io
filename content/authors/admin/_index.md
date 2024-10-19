@@ -37,16 +37,16 @@ profiles:
 
 
 
-education:
+# education:
 
-#   - position: Remote Intern
-#     institution: Rutgers University
-#     data_start: 2024-06-30
+# #   - position: Remote Intern
+# #     institution: Rutgers University
+# #     data_start: 2024-06-30
 
-  - area: Software Engineering
-    institution: Dalian University of Technology
-    date_start: 2021-09-01
-    date_end: 2025-06-30
+#   - area: Software Engineering
+#     institution: Dalian University of Technology
+#     date_start: 2021-09-01
+#     date_end: 2025-06-30
 
 
 
